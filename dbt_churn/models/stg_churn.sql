@@ -7,7 +7,6 @@ SELECT
     GEOGRAPHY,
     GENDER,
     AGE,
-    -- Faixa Etária
     CASE 
         WHEN AGE < 30 THEN '18-29'
         WHEN AGE BETWEEN 30 AND 39 THEN '30-39'
