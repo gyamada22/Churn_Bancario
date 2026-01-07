@@ -13,8 +13,8 @@ e Analytics.
 
 ## ⚙️ Stack & Fluxo de Dados
 
-**Stack:** Python • SQL • dbt • Apache Airflow • PostgreSQL / Snowflake • Power BI • Docker
-
+ **Stack:** Python • SQL • dbt • Apache Airflow • Snowflake • Power BI • Docker • Git
+ 
 - **Fonte de Dados:**  
   - Dataset público de Churn Bancário (Kaggle), representando dados operacionais de clientes financeiros.
 
