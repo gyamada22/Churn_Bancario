@@ -16,7 +16,7 @@ e Analytics.
 **Stack:** Python • SQL • dbt • Apache Airflow • PostgreSQL / Snowflake • Power BI • Docker
 
 - **Fonte de Dados:**  
-  Dataset público de Churn Bancário (Kaggle), representando dados operacionais de clientes financeiros.
+  - Dataset público de Churn Bancário (Kaggle), representando dados operacionais de clientes financeiros.
 
 - **Ingestão de Dados:**  
   - **Python** para extração, padronização técnica e carga dos dados brutos  
